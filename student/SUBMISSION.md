@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Đỗ Đình Long
+- MSSV: 2A202602673
+- Email: long2110d@gmail.com
+- Link repo (fork): https://github.com/long2110d/K4-L2L3-DAY23-DoDinhLong-2A202602673-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
